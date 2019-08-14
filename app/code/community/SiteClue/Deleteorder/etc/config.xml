@@ -2,7 +2,7 @@
 <config>
     <modules>
         <SiteClue_Deleteorder>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </SiteClue_Deleteorder>
     </modules>
     <admin>
