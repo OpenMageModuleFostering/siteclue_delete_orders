@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/SiteClue_Delete_Orders",
+    "name": "OpenMageModuleFostering\/SiteClue_Delete_Orders",
     "type": "magento-module",
     "license": "Academic-Free-License-(AFL)",
     "homepage": "",
     "description": "Simple tool for deleting Magento order extension. Single order delete and mass order delete features.",
     "authors": [
-    {
-        "name": "SiteClue",
-        "email": "siteclue@gmail.com"
-    }
-],
+        {
+            "name": "SiteClue",
+            "email": "siteclue@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
